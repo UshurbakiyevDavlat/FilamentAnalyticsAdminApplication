@@ -1,15 +1,15 @@
 {
-    "name": "ffin/vpa-admin",
+    "name": "davlat/filament-example",
     "type": "project",
-    "description": "The VPA Admin Project for the FFIN",
+    "description": "The filament example project",
     "keywords": [
         "laravel",
         "framework"
     ],
     "authors": [
         {
-            "name": "FFIN",
-            "email": "davlatbek.ushurbakiyev@ffin.kz"
+            "name": "Davlatbek",
+            "email": "dushurbakiev@gmail.com"
         }
     ],
     "license": "MIT",
